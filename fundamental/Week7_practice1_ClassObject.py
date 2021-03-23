@@ -67,7 +67,7 @@ print("Car Color\t\t:",Car.Color)
 print("Car Age (year)\t:",Car.age)
 print("\n----------------------------- Car Details -----------------------------\n")
 
-# Show mobile details of the dictionary in the class car
+# Show car details of the dictionary in the class car
 for x,y in Car.Car_1.items():
     print(x +":"+y)
 print()
