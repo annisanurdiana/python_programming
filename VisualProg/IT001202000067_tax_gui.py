@@ -220,27 +220,6 @@ app = QApplication([])
 window = Window()
 window.show()
 app.exec_()
-
-
-
-"""
-I doubt whether my assignment is correct or not, 
-This code is very similar to Sir.Williem's ppt last week. 
-
-I have tried to explore with Qt.
-I have tried using QListWidget, where the input uses QDialog.
-There we can Add New Tax, Edit Tax List, Delete Tax List, and Clear All List of Tax.
-
-After all this time, I finally failed to implement "save" in QListWidget.
-I have some problems with "save", so I couldn't possibly to use my code here :(
-
-I am apologize that my code is very similar to yours.
-Honestly, the way you teach us is very interesting and easy to understand, 
-Thank you very much...
-
-"""
-        
-        
         
         
         
